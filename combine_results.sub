@@ -1,0 +1,13 @@
+#!/bin/bash -l
+#PBS -N cr
+#PBS -l ncpus=1
+#PBS -l mem=15GB
+#PBS -l walltime=1:00:00
+#PBS -e CDS_MAUP2/outputs/cr_error
+#PBS -o CDS_MAUP2/outputs/cr_out
+
+module load r/4.0.3-foss-2020b
+module load gdal/3.2.1-foss-2020b
+
+R -e "cur_date = '20220606';
+source('CDS_MAUP2/combine_results.R');"
