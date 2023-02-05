@@ -11,4 +11,4 @@ The remainder of the files are available [here](https://drive.google.com/drive/f
 - sa1_shape
 - zones
 
-The three folders should be added into `r_src\` prior to running the code. 
+The three folders should be added into `r_src` prior to running the code. 
