@@ -1,6 +1,6 @@
 # maup_simulation_australia
 
-This repository contains code for the analyses described in the manuscript "The effect of the modifiable areal unit problem on ecological model inference: A simulation study for disease mapping in Australia" by James Hogg and others [[arXiv to come]].
+This repository contains code for the analyses described in the manuscript "The effect of the modifiable areal unit problem on ecological model inference: A simulation study for disease mapping in Australia" by James Hogg, Aiden Price, Conor Hassan, Shovanur Haque, Farzana Jahan, Wala Areed, Jessica Cameron, Helen Thompson, Susanna Cramb
 
 ## Notes
 
