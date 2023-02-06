@@ -4,7 +4,7 @@ This repository contains code for the analyses described in the manuscript "The 
 
 ## Notes
 
-The simulation experiment was carried out using a high performance computer, by running `run_sim.sh`. 
+The simulation experiment was carried out using a high performance computer, by running `run_sim.sh`. This file creates many `.rds` files which are then combined using `combine_results.sub`. The code to create some plots can be found in `getResultsPlots.R`
 
 The remainder of the files are available [here](https://drive.google.com/drive/folders/12vM5dS96Bu8h_juTgOVrt9LP87GRRG5N?usp=sharing)
 - phi
