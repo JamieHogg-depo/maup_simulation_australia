@@ -13,8 +13,8 @@ library(latex2exp)
 options(scipen = 999)
 
 #cur_date <- "20220329"
-cur_date <- "20220606"
-cur_loc <- paste0(getwd(), "/Zonations/Results/", cur_date)
+#cur_date <- "20220606"
+cur_loc <- paste0(getwd(), "/r_src")
 plot_loc <- paste0(cur_loc, "/plots")
 rds_loc <- paste0(cur_loc, "/rds")
 
